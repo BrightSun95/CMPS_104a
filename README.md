@@ -1,6 +1,8 @@
 # CMPS 104a
 Fundamentals of Compiler Design I
 
+Completed at UC Santa Cruz Spring Quarter 2017
+
 The projects in this class build upon each other.
 
 First is tokenizing the input.
