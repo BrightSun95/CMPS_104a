@@ -1,0 +1,18 @@
+// $Id: 01-hello.oc,v 1.1 2011-09-15 18:50:16-07 - - $
+// Simple hello world program.
+
+//#include "oclib.oh"
+
+struct hello{ 
+    int hi;
+    int [] stuff;
+    bool lots;
+    char of;
+    string stuff;
+}
+
+struct hello{ 
+    void k;
+}
+
+int abc();
